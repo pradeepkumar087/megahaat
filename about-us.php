@@ -1,7 +1,7 @@
 <?php
 	include_once("includes/global.php");
 	include("includes/functions.php");
-	include_once("includes/check_login_mem.phppppp");	
+	include_once("includes/check_login_mem.php...");	
 ?>
 <!DOCTYPE html>
 <html lang="en">
